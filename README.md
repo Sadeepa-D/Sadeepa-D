@@ -36,7 +36,7 @@ I'm Sadeepa, an IT undergraduate passionate about web development.
 
 ## 📫 Contact
 
-- Email: your-email@example.com
+- Email: sadeepa14dinakara@gmail.com
 <!--
 **Sadeepa-D/Sadeepa-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
