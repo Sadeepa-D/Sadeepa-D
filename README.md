@@ -31,9 +31,9 @@ I'm Sadeepa, an IT undergraduate passionate about web development.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadeepa-D&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeepa-D&layout=compact)
 
 ## 📫 Contact
 
