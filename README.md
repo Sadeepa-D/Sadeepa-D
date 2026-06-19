@@ -1,5 +1,4 @@
 ## Hi there 👋
-# Hi there 👋
 
 I'm Sadeepa, an IT undergraduate passionate about web development.
 
