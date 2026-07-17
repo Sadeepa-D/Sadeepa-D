@@ -16,16 +16,6 @@
 
 ---
 
-## 🌱 Currently Learning
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MERN%20Stack%20Development-FF6600?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java%20Multithreading-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-2E8B57?style=for-the-badge&logo=readthedocs&logoColor=white" />
-</p>
-
----
-
 ## 💻 Tech Stack
 
 ### 🎨 Frontend Development
