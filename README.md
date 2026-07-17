@@ -82,7 +82,7 @@
 ## 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeepa-D&layout=pie&langs_count=8&hide_border=true&count_private=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeepa-D&layout=pie&langs_count=8&hide_border=true" width="60%" />
 </p>
 
 ---
