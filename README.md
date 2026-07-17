@@ -77,16 +77,6 @@
   <img src="https://streak-stats.demolab.com?user=Sadeepa-D&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
----
-
-## 🔥 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeepa-D&layout=pie&langs_count=8&hide_border=true" width="60%" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="left">
