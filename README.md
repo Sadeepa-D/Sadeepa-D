@@ -16,6 +16,16 @@
 
 ---
 
+## 🌱 Currently Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MERN%20Stack%20Development-FF6600?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java%20Multithreading-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-2E8B57?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</p>
+
+---
+
 ## 💻 Tech Stack
 
 ### 🎨 Frontend Development
@@ -54,11 +64,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
----🔥 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeepa-D&layout=pie&theme=tokyonight&hide_border=true&langs_count=8" width="60%" />
-</p>
+---
 
 ## 📊 GitHub Stats
 
@@ -69,6 +75,14 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sadeepa-D&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+---
+
+## 🔥 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeepa-D&layout=pie&langs_count=8&hide_border=true&count_private=true" width="60%" />
 </p>
 
 ---
