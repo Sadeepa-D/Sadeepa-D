@@ -54,7 +54,11 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
----
+---🔥 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeepa-D&layout=pie&theme=tokyonight&hide_border=true&langs_count=8" width="60%" />
+</p>
 
 ## 📊 GitHub Stats
 
