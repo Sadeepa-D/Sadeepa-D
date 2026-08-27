@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Sadeepa 👋</h1>
 <h3 align="center">An IT Undergraduate passionate about Web Development</h3>
-### 🧑‍💻 Programming Languages
+🧑‍💻 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-### 🧩 Frameworks & Platforms
+🧩 Frameworks & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
